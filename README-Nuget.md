@@ -1,4 +1,4 @@
-[![AdsDialogKit](https://raw.githubusercontent.com/CihanCakir/AdsDialogKit/main/logo.PNG)]
+[![AdsDialogKit](https://raw.githubusercontent.com/adessoTurkey-dotNET/AdsDialogKit/main/logo.PNG)]
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -124,7 +124,7 @@ public class DialogBoxController : ControllerBase
 
 
 
-_For more examples, please refer to the [Sample Project](https://github.com/CihanCakir/AdsDialogKit/tree/main/sample/AdsDialogKit.Console)_
+_For more examples, please refer to the [Sample Project](https://github.com/adessoTurkey-dotNET/AdsDialogKit/tree/main/sample/AdsDialogKit.Console)_
 
 
 
@@ -173,21 +173,21 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 Cihan Çakır - dev.cihancakir@gmail.com
 
-Project Link: [https://github.com/CihanCakir/AdsDialogKit](https://github.com/CihanCakir/AdsDialogKit)
+Project Link: [https://github.com/adessoTurkey-dotNET/AdsDialogKit](https://github.com/adessoTurkey-dotNET/AdsDialogKit)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/CihanCakir/AdsDialogKit.svg?style=for-the-badge
-[contributors-url]: https://github.com/CihanCakir/AdsDialogKit/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CihanCakir/AdsDialogKit.svg?style=for-the-badge
-[forks-url]: https://github.com/CihanCakir/AdsDialogKit/network/members
-[stars-shield]: https://img.shields.io/github/stars/CihanCakir/AdsDialogKit.svg?style=for-the-badge
-[stars-url]: https://github.com/CihanCakir/AdsDialogKit/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CihanCakir/AdsDialogKit.svg?style=for-the-badge
-[issues-url]: https://github.com/CihanCakir/AdsDialogKit/issues
-[license-shield]: https://img.shields.io/github/license/CihanCakir/AdsDialogKit.svg?style=for-the-badge
-[license-url]: https://github.com/CihanCakir/AdsDialogKit/blob/main/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/adessoTurkey-dotNET/AdsDialogKit.svg?style=for-the-badge
+[contributors-url]: https://github.com/adessoTurkey-dotNET/AdsDialogKit/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adessoTurkey-dotNET/AdsDialogKit.svg?style=for-the-badge
+[forks-url]: https://github.com/adessoTurkey-dotNET/AdsDialogKit/network/members
+[stars-shield]: https://img.shields.io/github/stars/adessoTurkey-dotNET/AdsDialogKit.svg?style=for-the-badge
+[stars-url]: https://github.com/adessoTurkey-dotNET/AdsDialogKit/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adessoTurkey-dotNET/AdsDialogKit.svg?style=for-the-badge
+[issues-url]: https://github.com/adessoTurkey-dotNET/AdsDialogKit/issues
+[license-shield]: https://img.shields.io/github/license/adessoTurkey-dotNET/AdsDialogKit.svg?style=for-the-badge
+[license-url]: https://github.com/adessoTurkey-dotNET/AdsDialogKit/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Cihancakir
 [product-screenshot]: images/screenshot.png
