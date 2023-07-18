@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>AdsDialogKit</id>
+    <version>1.0.0</version>
+    <title>Adesso Dialog Kit</title>
+    <authors>Cihan Çakır</authors>
+	  <owners>Adesso Turkey</owners>
+	  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+     <icon>logo.png</icon> 
+    <projectUrl>https://github.com/CihanCakir/AdsDialogKit</projectUrl>
+    <description>Dialog Kit is a user interface solution that provides fast and customizable dialog boxes. It helps you add informative messages, alerts and user logins to your applications.</description>
+    <releaseNotes>Initial Create.</releaseNotes>
+    <copyright>Copyright (c) 2023, Cihan Çakır</copyright>
+    <tags>AdaptiveCard; DialogCard; MessageBox;</tags>
+  </metadata>
+</package>

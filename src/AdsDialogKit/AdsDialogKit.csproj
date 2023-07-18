@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+      <PackageId>AdsDialogKit</PackageId>
+        <Authors>Cihan Çakır</Authors>
+        <Description>
+        Dialog Kit is a user interface solution that provides fast and customizable dialog boxes. It helps you add informative messages, alerts and user logins to your applications.        </Description>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <PackageIcon>logo.png</PackageIcon>
+        <PackageProjectUrl>https://github.com/CihanCakir/AdsDialogKit</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/CihanCakir/AdsDialogKit</RepositoryUrl>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <Copyright>Copyright (c) 2023, Cihan Çakır</Copyright>
+        <PackageReadmeFile>README-Nuget.md</PackageReadmeFile>
+        <ProduceReferenceAssemblyInOutDir>true</ProduceReferenceAssemblyInOutDir>
+    <PackageTags>AdaptiveCard, DialogCard, MessageBox</PackageTags>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <EnablePackageValidation>true</EnablePackageValidation>
+  </PropertyGroup>
+
+	<ItemGroup>
+	</ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\"/>
+    <None Include="..\..\README-Nuget.md" Pack="true" PackagePath="\"/>
+    <None Include="..\..\LICENSE" Pack="true" PackagePath="\"/>
+    <None Include="..\..\logo.png" Pack="true" PackagePath="\"/>
+    <Folder Include="Components\AdaptiveCard\" />
+    <Folder Include="Layouts\AdaptiveCard\" />
+   <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="5.0.0" />
+    		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	  <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="5.0.0" />
+	  <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="5.0.0" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNet.ReproducibleBuilds" Version="1.1.1">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  
+</Project>
